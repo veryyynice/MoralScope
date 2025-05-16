@@ -2,6 +2,11 @@
 CSS 488 – Natural Language Processing  
 Option B: Fine-Tune a Model & Compare Performance
 
+---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryyynice/MoralScope/blob/main/text_classification_llm.ipynb)
+
+---
+
 ## Overview  
 This project explores fine-tuning a large language model (LLM) on Reddit’s r/AmItheAsshole (r/AITA) dataset to classify moral verdicts. Given a user's post describing a social or ethical conflict, the model predicts whether the poster is "the asshole" or "not the asshole" based on community consensus.
 
